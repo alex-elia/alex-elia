@@ -57,7 +57,10 @@ Python automation scripts and templates for building satellite AI presentations 
 
 ## AI stack and orchestration
 
-LLM orchestration with LangChain, LangGraph, CrewAI, Dify, and tailored backend workflows; RAG design; data ingestion and transformation pipelines; human approval loops; and Supabase-backed or custom application flows.
+LLM orchestration with LangChain, LangGraph, CrewAI, Dify, and tailored backend workflows; RAG design; data ingestion and transformation pipelines; human approval loops; and Supabase-backed or custom application flows. 
+
+I also use agentic workflows and AI coding agents (Cursor, GitHub Copilot, Claude) as force multipliers for implementation and exploration, while keeping architecture, testing, and reviews under human control.
+
 
 ## Tech areas
 
