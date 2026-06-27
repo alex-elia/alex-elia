@@ -1,4 +1,4 @@
-# Alex Elia
+# Alex GON - Elia Studios
 
 **Experienced CTO and CPTO, AI architect, and builder** focused on designing and shipping applied AI systems, local-first software, data pipelines, and production-ready products.[cite:1][cite:2][cite:3]
 
