@@ -1,6 +1,5 @@
 # Alex GON - Elia Studios
-
-# Alex Elia
+AI Architect - CTO - From POC to Industrialisation
 
 **Experienced CTO and CPTO, AI architect, and builder** helping companies turn AI into real products that improve revenue, efficiency, operations, and decision-making.
 
